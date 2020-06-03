@@ -7,7 +7,7 @@ weight = 30
 widget = "featurette"
 [[feature]]
 description = ""
-icon = "fa-python"
+icon = "python"
 icon_pack = "fab"
 name = "Python"
 [[feature]]
