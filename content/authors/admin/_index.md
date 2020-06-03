@@ -63,8 +63,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-[user_groups:
+user_groups:
 - Researchers
-- Visitors]
+- Visitors
 ---
 I’m a first-year student at Georgia State University, majoring in Economics and Mathematics with a keen interest in Macroeconomic Theory and Econometrics. I’m an enthusiastic, motivated, and highly disciplined student with proven leadership qualities. Through my coursework and campus engagement, I have developed solid critical thinking skills with a passion for taking initiatives and seeking out new challenges. Being an optimist, I appreciate little things and radiate positivity. I strive to become a better person through constant learning and self-analysis.
