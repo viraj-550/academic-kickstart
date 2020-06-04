@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# Interests:
+interests:
 - Data Analytics
 - Developmental Economics
 - Econometrics
